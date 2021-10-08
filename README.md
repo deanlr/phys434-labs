@@ -1,1 +1,1 @@
-# phys434-lab1
+# phys434-labs
